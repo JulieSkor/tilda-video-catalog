@@ -34,12 +34,28 @@
   // },
 */
 window.VIDEO_CATALOG_NEW_VIDEOS = [
+    {
+    url: "https://kinescope.io/4SCjfR9g5Yn4CysUDXD1Bz",
+    title: "Прогноз на 2026 год: Астрология и Нумерология для каждого знака зодиака",
+    time: "01:08:51",
+    categories: ["intervyu"],
+    layout: "full"
+  },
+  
+      {
+    url: "https://kinescope.io/r6NMaYCEfc2QQ2FrqVH1uE",
+    title: "Невошедшие в эфир фрагменты. Интервью для каналов «Время Открыть», «Время Любить»",
+    time: "37:08",
+    categories: ["intervyu"],
+    layout: "half"
+  },
+  
   {
     url: "https://kinescope.io/ab3Er8YFavF939GSx4iKVE",
     title: "Интервью с психологом Ольгой Вильдяевой",
     time: "01:10:35",
     categories: ["intervyu"],
-    layout: "full"
+    layout: "half"
   },
   {
     url: "https://kinescope.io/8FQQL6yKEN1VaBfc4Nmh5U",
