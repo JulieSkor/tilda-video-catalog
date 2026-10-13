@@ -35,6 +35,15 @@
 */
 window.VIDEO_CATALOG_NEW_VIDEOS = [
     {
+    url: "https://kinescope.io/o7E1kFfGC4ADsb33XqBSe1",
+    title: "Рожденные в «нулевые»",
+    time: "01:11:31",
+    categories: ["intervyu"],
+    layout: "full"
+  },
+
+  
+    {
     url: "https://kinescope.io/4SCjfR9g5Yn4CysUDXD1Bz",
     title: "Прогноз на 2026 год: Астрология и Нумерология для каждого знака зодиака",
     time: "01:08:51",
