@@ -48,7 +48,7 @@ window.VIDEO_CATALOG_NEW_VIDEOS = [
     title: "Прогноз на 2026 год: Астрология и Нумерология для каждого знака зодиака",
     time: "01:08:51",
     categories: ["intervyu"],
-    layout: "full"
+    layout: "slider-horizontal"
   },
   
       {
@@ -56,7 +56,7 @@ window.VIDEO_CATALOG_NEW_VIDEOS = [
     title: "Невошедшие в эфир фрагменты. Интервью для каналов «Время Открыть», «Время Любить»",
     time: "37:08",
     categories: ["intervyu"],
-    layout: "half"
+    layout: "slider-horizontal"
   },
   
   {
@@ -64,21 +64,21 @@ window.VIDEO_CATALOG_NEW_VIDEOS = [
     title: "Интервью с психологом Ольгой Вильдяевой",
     time: "01:10:35",
     categories: ["intervyu"],
-    layout: "half"
+    layout: "slider-horizontal"
   },
   {
     url: "https://kinescope.io/8FQQL6yKEN1VaBfc4Nmh5U",
     title: "Интервью для каналов «Время Открыть», «Время Любить»",
     time: "01:23:54",
     categories: ["intervyu"],
-    layout: "half"
+    layout: "slider-horizontal"
   },
     {
     url: "https://kinescope.io/rAhFo74XBA4crSENpcp9Tj",
     title: "Интервью для каналов «Время Открыть», «Время Любить»",
     time: "01:01:45",
     categories: ["intervyu"],
-    layout: "half"
+    layout: "slider-horizontal"
   }
   ];
   
